@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lista-empleados/static/css/main.0f379ec7.css",
+    "main.js": "/lista-empleados/static/js/main.3634d64c.js",
+    "index.html": "/lista-empleados/index.html",
+    "main.0f379ec7.css.map": "/lista-empleados/static/css/main.0f379ec7.css.map",
+    "main.3634d64c.js.map": "/lista-empleados/static/js/main.3634d64c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f379ec7.css",
+    "static/js/main.3634d64c.js"
+  ]
+}
